@@ -1,5 +1,5 @@
 # Teensy4.0-Flight-Controller
-PCB Design files for the Teensy 4.0 flight controller
+PCB Design files for the Teensy 4.0 flight controller. Designed with EasyEDA.
 The 2-layer PCB measures 37 × 36 mm and has the standardized 30.5 x 30.5 mm M3 mounting holes with JST-SH connectors. It features multiple IMU options and power via USB or external 7-30V battery.
 <p float="left">
   <img src="https://github.com/animeshshastry/Teensy4.0-Flight-Controller/blob/main/Images/Front.svg?sanitize=true" width="400" height="400">
