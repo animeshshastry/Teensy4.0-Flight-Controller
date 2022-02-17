@@ -10,7 +10,7 @@ In addition to the PCB You'll need the following components to complete the flig
 1. Teensy 4.0 ( make it castellated by manually sanding or grinding the edges with dremel or tool of your choice )
 2. ICM-20948 and/or ICM-42688 ( QFN packages are hard to find and so you might have to take it out of breakout boards )
 3. Three 0.1 uF 0402 SMD capacitors
-4. Two 10k Ω and two 4.7k Ω 0402 SMD Resistors
+4. Two 10 kΩ and two 4.7 kΩ 0402 SMD Resistors
 5. Four JST-SH female 4-pin connectors ( Female Qwiic connectors will work )
 6. (Optional) Polulu 5V, 600mA Step-Down Voltage Regulator D36V6F5 ( if you wish to use external power from 7-30V battery )
 7. (Optional) NW-MOT-ICM42686P IMU breakout board for another IMU ( make it castellated similar to teensy )
